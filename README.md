@@ -3,7 +3,7 @@
 
 
 - 🤔 Anthony Abou Imad - CEO & CTO 
-- 🚀 Tia Estepanian - CMO % CFO
+- 🚀 Tia Estepanian - CMO & CFO
 
 <div>
   <h2>🧰 AquaNova WAS BUILT USING:</h2><br>
