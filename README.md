@@ -6,7 +6,7 @@
 - 🚀 Tia Estepanian - CMO & CFO
 
 <div>
-  <h2>🧰 AquaNova WAS BUILT USING:</h2><br>
+  <h2>🧰 AquaNova Was Built Using:</h2><br>
     <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5">
     <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3">
     <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> 
