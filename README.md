@@ -1,6 +1,6 @@
-<h1>Hi There, Welcome to AquaNova <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Riding the Waves 🌊, Connecting the World🌎: I'm AquaNova!
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Riding the Waves, Connecting the World: I'm AquaNova!
 
 - 🤔 Anthony Abou Imad - CEO & CTO 
 - 🚀 Tia Estepanian - CMO % CFO
